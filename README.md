@@ -21,7 +21,9 @@ Contenido:
 o Listado de productos
 
 -detalles del productos
+
 -modificar cantidad
+
 -add al carrito
 
 Precio (simular precios multiplos de 10 entre 1000 y 100000)
@@ -29,13 +31,17 @@ Precio (simular precios multiplos de 10 entre 1000 y 100000)
 o Carrito
 
 -ver produstos agregados
+
 -precio total
+
 -modificar cantidad
+
 -eliminar producto
 
 o Checkout
 
 -resumen del pedido
+
 -total a pagar
 
 
