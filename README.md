@@ -4,9 +4,9 @@ ecommerce realizado con react native, redux, rn paper, thunk, react navigation
 
 Instrucciones:
 
-git clone https://github.com/pmella16/ecommerce-rn-redux.git
+git clone https://github.com/pmella16/ecommerce-pj.git
 
-cd ecommerce-rn-redux
+cd ecommerce-pj
 
 npm i
 
