@@ -17,32 +17,26 @@ npx react-native run-android / npx react-native run-ios
 
 Contenido:
 
-• Página de productos
 
 o Listado de productos
 
-Producto:
+-detalles del productos
+-modificar cantidad
+-add al carrito
 
-Foto
+Precio (simular precios multiplos de 10 entre 1000 y 100000)
 
-Nombre
+o Carrito
 
-Tipo
+-ver produstos agregados
+-precio total
+-modificar cantidad
+-eliminar producto
 
-Precio (simular precios)
+o Checkout
 
-
-• Agregar al carrito
-
-• Mini carrito desplegable
-
-o Muestra los productos agregados
-
-o agregar 1 y sacar 1
-
-o Precio total del carro
-
-• Checkout con todos los productos
+-resumen del pedido
+-total a pagar
 
 
 TODO:
